@@ -1,0 +1,33 @@
+{
+    "name": "yandricr/gpti",
+    "description": "This package simplifies your interaction with various GPT models, removing the need for tokens or other methods to access GPT",
+    "type": "library",
+    "license": "MIT",
+    "readme": "README.md",
+    "autoload": {
+        "psr-4": {
+            "gpti\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yandricr",
+            "email": "yandribret@gmail.com"
+        }
+    ],
+    "require": {},
+    "keywords": [
+        "gpt",
+        "gpt-3",
+        "gpt-3.5",
+        "gpt-4",
+        "gpti",
+        "gpt-free",
+        "ai",
+        "generate-image",
+        "prodia",
+        "lexica",
+        "dalle"
+    ],
+    "homepage": "https://github.com/yandricr/gpti"
+}
