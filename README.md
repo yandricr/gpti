@@ -203,6 +203,55 @@ if($error != null){
     "ul": "https://..."
 }
 ```
+
+#### Models
+
+| Code | Model | Name |
+|--------------|--------------||--------------|
+| 1 | absolutereality_V16.safetensors [37db0fc3] | Absolute Reality V1.6 |
+| 2 | absolutereality_v181.safetensors [3d9d4d2b] | Absolute Reality V1.8.1 |
+| 3 | analog-diffusion-1.0.ckpt [9ca13f02] | Analog V1 |
+| 4 | anythingv3_0-pruned.ckpt [2700c435] | Anything V3 |
+| 5 | anything-v4.5-pruned.ckpt [65745d25] | Anything V4.5 |
+| 6 | anythingV5_PrtRE.safetensors [893e49b9] | Anything V5 |
+| 7 | AOM3A3_orangemixs.safetensors [9600da17] | AbyssOrangeMix V3 |
+| 8 | deliberate_v2.safetensors [10ec4b29] | Deliberate V2 |
+| 9 | dreamlike-diffusion-1.0.safetensors [5c9fd6e0] | Dreamlike Diffusion V1 |
+| 10 | dreamlike-photoreal-2.0.safetensors [fdcf65e7] | Dreamlike Photoreal V2 |
+| 11 | dreamshaper_6BakedVae.safetensors [114c8abb] | Dreamshaper 6 baked vae |
+| 12 | dreamshaper_7.safetensors [5cf5ae06] | Dreamshaper 7 |
+| 13 | dreamshaper_8.safetensors [9d40847d] | Dreamshaper 8 |
+| 14 | EimisAnimeDiffusion_V1.ckpt [4f828a15] | Eimis Anime Diffusion V1.0 |
+| 15 | elldreths-vivid-mix.safetensors [342d9d26] | Elldreth's Vivid |
+| 16 | lyriel_v16.safetensors [68fceea2] | Lyriel V1.6 |
+| 17 | mechamix_v10.safetensors [ee685731] | MechaMix V1.0 |
+| 18 | meinamix_meinaV9.safetensors [2ec66ab0] | MeinaMix Meina V9 |
+| 19 | meinamix_meinaV11.safetensors [b56ce717] | MeinaMix Meina V11 |
+| 20 | openjourney_V4.ckpt [ca2f377f] | Openjourney V4 |
+| 21 | portraitplus_V1.0.safetensors [1400e684] | Portrait+ V1 |
+| 22 | Realistic_Vision_V1.4-pruned-fp16.safetensors [8d21810b] | Realistic Vision V1.4 |
+| 23 | Realistic_Vision_V2.0.safetensors [79587710] | Realistic Vision V2.0 |
+| 24 | Realistic_Vision_V4.0.safetensors [29a7afaa] | Realistic Vision V4.0 |
+| 25 | Realistic_Vision_V5.0.safetensors [614d1063] | Realistic Vision V5.0 |
+| 26 | redshift_diffusion-V10.safetensors [1400e684] | Redshift Diffusion V1.0 |
+| 27 | revAnimated_v122.safetensors [3f4fefd9] | ReV Animated V1.2.2 |
+| 28 | sdv1_4.ckpt [7460a6fa] | SD V1.4 |
+| 29 | v1-5-pruned-emaonly.safetensors [d7049739] | SD V1.5 |
+| 30 | shoninsBeautiful_v10.safetensors [25d8c546] | Shonin's Beautiful People V1.0 |
+| 31 | theallys-mix-ii-churned.safetensors [5d9225a4] | TheAlly's Mix II |
+| 32 | timeless-1.0.ckpt [7c4971d4] | Timeless V1 |
+
+#### Samplers
+
+| Code | Model |
+|--------------|--------------|
+| 1 | Euler |
+| 2 | Euler a |
+| 3 | Heun |
+| 4 | DPM++ 2M Karras |
+| 5 | DPM++ SDE Karras |
+| 6 | DDIM |
+
 ## API Reference
 
 Currently, the [API](https://lazy-blue-elk-hat.cyclic.cloud/) has no access restrictions or usage limits.
