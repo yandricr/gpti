@@ -162,7 +162,7 @@ $json = json_encode(array(
     "prompt" => "the sun bids farewell in a warm sky, painting soft colors as the clouds dance",
     "model" => 1,                           // code model required
     "sampler" => 1,                         // code sampler required
-    "steps" => "25",                        // 1-3
+    "steps" => "25",                        // 1-30
     "cfg_scale" => "7",                     // 0-20
     "negative_prompt" => "",                // optional
     "type" => "json"                        // optional: "json" or "text"
@@ -243,7 +243,7 @@ if($error != null){
 
 #### Samplers
 
-| Code | Model |
+| Code | Sampler |
 |--------------|--------------|
 | 1 | Euler |
 | 2 | Euler a |
