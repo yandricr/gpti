@@ -243,7 +243,7 @@ if($error != null){
 
 #### Samplers
 
-| Code | Model |
+| Code | Sampler |
 |--------------|--------------|
 | 1 | Euler |
 | 2 | Euler a |
