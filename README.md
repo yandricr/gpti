@@ -254,7 +254,7 @@ if($error != null){
 
 ## API Reference
 
-Currently, the [API](https://lazy-blue-elk-hat.cyclic.cloud/) has no access restrictions or usage limits.
+Currently, the [API](https://gpti.projectsrpp.repl.co/api) has no access restrictions or usage limits.
 
 For more details and examples, refer to the complete [documentation](https://gpti.projectsrpp.repl.co/)
 

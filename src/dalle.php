@@ -1,7 +1,7 @@
 <?php
 /*
     Author: yandricr
-    API: https://lazy-blue-elk-hat.cyclic.cloud/
+    API: https://gpti.projectsrpp.repl.co/api
     Docs: https://gpti.projectsrpp.repl.co/
 */
 
@@ -15,7 +15,7 @@ class dalle {
     private $err = null;
 
     public function __construct($json = ""){
-        $api = "https://lazy-blue-elk-hat.cyclic.cloud";
+        $api = "https://gpti.projectsrpp.repl.co/api";
         $doc = "https://gpti.projectsrpp.repl.co/";
 
         $prompt = null;

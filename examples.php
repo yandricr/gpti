@@ -1,7 +1,7 @@
 <?php
 /*
     Author: yandricr
-    API: https://lazy-blue-elk-hat.cyclic.cloud/
+    API: https://gpti.projectsrpp.repl.co/api
     Docs: https://gpti.projectsrpp.repl.co/
 */
 
